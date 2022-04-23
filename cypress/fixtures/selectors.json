@@ -1,0 +1,27 @@
+{
+    "__comment1__": "SELECTORS FOR CREATE ACCOUNT PAGE",
+
+    "languageButton" : "div.language",
+    "isEnglish" : "#nav > div > ul > li > a > div",
+    "h1Text" : "h1.top-section-panel__h1",
+    "createAnAccount" : "ul.right.headData > li > a",
+    "acceptingCookies" : "#btn-agree",
+    "h2text" : "h2.contentH1",
+    "tenant" : "div.left > label > span.button-outline",
+    "landlord" : "div.right > label > span.button-outline",
+    "firstNameLabel" : "label[for=FirstName]",
+    "firstName" : "input[name=FirstName]",
+    "lastNameLabel" : "label[for=LastName]",
+    "lastName" : "input[name=LastName]",
+    "phoneLabel" : "label[for=Phone]",
+    "phone" : "input[name=Phone]",
+    "emailLabel" : "label[for=Phone]",
+    "email" : "input[name=Email]",
+    "passwordLabel" : "label[for=Password]",
+    "password" : "input[name=Password]",
+    "confirmpasdLabel" : "label[for=Password2]",
+    "confirmpasd" : "input[name=Password2]",
+    "submitButton" : "input[type=submit]",
+    "emailVerificationText" : "#support > div.section-wrapper > section > h2:nth-child(1)",
+    "accountAlreadyExistMessage" : ".RED"
+}
