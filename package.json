@@ -1,0 +1,23 @@
+{
+  "name": "samtrygg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^9.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imukhalid/Samtrygg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imukhalid/Samtrygg/issues"
+  },
+  "homepage": "https://github.com/imukhalid/Samtrygg#readme"
+}
